@@ -2,6 +2,7 @@
 Faruk Eryilmaz.
 Innovera staj alim yarismasinda birinci sorunun cozumu icin yazmis oldugum basit C programi.
 Cozum yazisi: https://farukeryilmaz.com/innovera-acelab-staj-alim-ctf-yarismasi-17/
+Blog: https://farukeryilmaz.com/
 */
 
 #include <stdio.h>
